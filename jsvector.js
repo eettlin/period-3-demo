@@ -1,7 +1,8 @@
 
 // JSVector -- a Javascript 2D vector class
 
-// The class constructor
+// The class const
+//  hello
 function JSVector(x,y){
     if(arguments.length == 2) {
         // called with two arguments
